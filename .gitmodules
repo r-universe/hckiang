@@ -8,3 +8,8 @@
 	url = https://github.com/hckiang/glinvci
 	shallow = true
 	registered = true
+[submodule "ttcg"]
+	path = ttcg
+	url = https://github.com/cran/ttcg
+	shallow = true
+	registered = true
