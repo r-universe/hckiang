@@ -7,4 +7,4 @@
 	url = https://github.com/hckiang/glinvci
 [submodule "ttcg"]
 	path = ttcg
-	url = https://github.com/cran/ttcg
+	url = https://github.com/hckiang/ttcg
