@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "glinvci"]
-	path = glinvci
-	url = https://github.com/hckiang/glinvci
 [submodule "ttcg"]
 	path = ttcg
 	url = https://github.com/hckiang/ttcg
